@@ -1,0 +1,23 @@
+body{
+    background-color:#ecb413;
+    background-image: linear-gradient( #b663cf, #ecb413);
+    color: white;
+   
+}
+.container{
+  margin: auto;
+  color: white;
+}
+svg{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  height: 40px;
+  width: 40px;
+  color: #ecb413;
+}
+.imgg{
+    object-fit: contain;
+    height: 300px;
+}
+
